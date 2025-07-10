@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+
+# Environment variables
+
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Build output
+dist/
+build/
+coverage/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE folders
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: Uploaded files (if stored locally)
+
+
+# Optional: Debug folders
+.debug/
+
+# Render local config (if you download render.yaml locally)
+render.yaml
